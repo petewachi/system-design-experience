@@ -100,11 +100,11 @@ This page is dedicated to sharing my experience in systems design projects with 
 ## Activities and Publications
 
 - **Volunteer:** Redesigned database system for Thailand Collaboration for Education (TCFE)
-- **Hackathons:** VR_Hack 2023 Winner, BEST Startup Experience 2023 Runner-up
-- **Publications and Awards:** IEEE EMBC’17 session speaker, Gold Medal in International Exhibition of Inventions of Geneva
+- **Hackathons:** [VR_Hack 2023](https://www.georgiancollege.ca/blog/student-life/georgian-vr-hack-provides-an-immersive-learning-experience/) Winner, [BEST Startup Experience 2023](https://lassonde.yorku.ca/best-startup-experience-2023) Runner-up
+- **Publications and Awards:** [IEEE EMBC’17](https://doi.org/10.1109/embc.2017.8037112) session speaker, Gold Medal in International Exhibition of Inventions of Geneva
 
 ---
 
 ## Contact Me
 
-For more information or to get in touch, please reach out via [Email](mailto:petewachi@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pete-wachirawit/).
+For more information or to get in touch, please reach out via [Email](mailto:petewachi@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/umpaipantw).
