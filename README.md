@@ -58,6 +58,10 @@ This page is dedicated to sharing my experience in systems design projects with 
 - **Objective:** Transform a monolithic architecture to a native cloud serverless platform to improve performance and user experience, allowing business agility to add new features.
 - **Collaborations:** Worked with data lake teams, IBM engineers, and various stakeholders.
 
+<p>
+  <img src="images\CorpPortal_Architecture.webp" style="width: 640px">
+</p>
+
 #### Key Business Features
 - **Identity and Access Management:** Designed user roles, permissions, and customizable workflows to handle various company sizes.
 - **Transaction Banking:** Managed immediate, scheduled, and recurring transactions with retry logic. Handled domestic money transfers, remittance, payroll, and bill payment features.
