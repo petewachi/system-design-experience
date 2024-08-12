@@ -59,7 +59,7 @@ This page is dedicated to sharing my experience in systems design projects with 
 - **Collaborations:** Worked with data lake teams, IBM engineers, and various stakeholders.
 
 <p>
-  <img src="images\CorpPortal_Architecture.webp" style="width: 640px">
+  <img src="images\CorpPortal_Architecture.webp" style="width: 1080px">
 </p>
 
 #### Key Business Features
