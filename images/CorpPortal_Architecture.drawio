@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="ORH8hoGxnRq0YV5Q__YL">
-    <mxGraphModel dx="1382" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d51Kw371MCxtWn_OuyqZ-123" value="Direct Connect" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.direct_connect;labelBackgroundColor=default;" vertex="1" parent="d51Kw371MCxtWn_OuyqZ-9">
-          <mxGeometry x="1403" y="810" width="78" height="78" as="geometry" />
+          <mxGeometry x="1393" y="855.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="d51Kw371MCxtWn_OuyqZ-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8c00ff;labelBackgroundColor=default;" edge="1" parent="d51Kw371MCxtWn_OuyqZ-9" source="d51Kw371MCxtWn_OuyqZ-141" target="d51Kw371MCxtWn_OuyqZ-142">
           <mxGeometry relative="1" as="geometry" />
@@ -324,6 +324,9 @@
         <mxCell id="d51Kw371MCxtWn_OuyqZ-137" value="Data Warehouse&lt;br&gt;Data Lake" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;labelBackgroundColor=default;" vertex="1" parent="d51Kw371MCxtWn_OuyqZ-180">
           <mxGeometry x="320" y="21.25" width="55" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="d51Kw371MCxtWn_OuyqZ-243" value="Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;labelBackgroundColor=default;" vertex="1" parent="d51Kw371MCxtWn_OuyqZ-180">
+          <mxGeometry x="-24" y="45.75" width="48" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="d51Kw371MCxtWn_OuyqZ-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;labelBackgroundColor=default;" edge="1" parent="1" target="d51Kw371MCxtWn_OuyqZ-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="62.96536865943847" y="144.33333333333326" as="sourcePoint" />
@@ -382,9 +385,6 @@
         </mxCell>
         <mxCell id="d51Kw371MCxtWn_OuyqZ-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=default;" edge="1" parent="1" source="d51Kw371MCxtWn_OuyqZ-243" target="d51Kw371MCxtWn_OuyqZ-242">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d51Kw371MCxtWn_OuyqZ-243" value="Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1051" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
