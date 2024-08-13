@@ -46,9 +46,11 @@ This page is dedicated to showcasing my experience in systems design projects wi
 
 #### My Role
 - **Architecture Design:** Contributed to the design of cloud services and laid the foundation for microservices design as a solution architect. Integrated various financial functions with enterprise and legacy systems, ensuring scalability and consistent business logic design and implementation.
-- **Solution Design and Implementation:** Designed microservices, databases, APIs, and integrations for multiple services such as IAM, transaction banking, payroll, and bill payment. Developed a dynamic workflow system using Camunda BPMN to automate and manage business processes.
+- **Solution Design and Implementation:** Designed microservices, databases, APIs, and integrations for multiple services such as IAM, transaction banking, payroll, and bill payment. Developed a dynamic workflow system using Camunda BPMN to automate and manage business processes. Oversaw business logic, functional and technical design of the project.
 - **ETL Processes:** Collaborated on designing ETL processes for data auditing and data lake integration. Worked closely with data lake teams to define data fields and auditing requirements.
 - **Technical Documentation:** Created comprehensive documentation using sequence diagrams, API Swagger, Camunda BPMN, and DMN rules. Maintained detailed design documents in Confluence throughout the project lifecycle.
+- **Testing and Production Support:** Designed test cases, executed sprint tests and system integration testing (SIT), managed defects using Postman, investigated API logs with Kibana and implemented functional dashboards. Provided production support and developed knowledge transition materials.
+
 
 <p>
   <img src="images/CorpPortal_Architecture.webp" alt="Corporate Banking Platform Architecture" style="width: 1080px">
