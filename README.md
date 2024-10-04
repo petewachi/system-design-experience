@@ -29,9 +29,13 @@ This page is dedicated to showcasing my experience in systems design projects wi
 ### 1. Corporate Banking Platform Revamp
 
 #### Project Overview
-- **Objective:** Transform the legacy monolithic architecture of the corporate banking platform into a scalable, cloud-native system to enhance agility and user experience.
+- **Objective:** Transform the legacy monolithic architecture of the corporate banking platform into a scalable serverless microservice to system performance, scalability, and user experience.
 - **Languages & Tools:** Java, AWS, Kafka, Camunda, SQL, UML.
 - **Integrations:** Payment Hub, Enterprise API, Data Lake, IBM MQ, SWIFT Global Payment, AML Reporting.
+<p>
+  Corporate Banking Platform Serverless Architecture (Replica version, not an actual architecture)
+  <img src="images/CorpPortal_Architecture.webp" alt="Corporate Banking Platform Architecture" style="width: 1080px">
+</p>
 
 #### Implemented Features
 - **Architecture Redesigned:** Re-architected the platform into structured serverless microservices, allowing independent scaling and faster deployment of new features.
@@ -53,7 +57,8 @@ This page is dedicated to showcasing my experience in systems design projects wi
 
 
 <p>
-  <img src="images/CorpPortal_Architecture.webp" alt="Corporate Banking Platform Architecture" style="width: 1080px">
+  Example of Camunda BPMN:
+  <img src="images/Camunda Transfer Process.png" alt="Camunda BPMN" style="width: 1080px">
 </p>
 
 ---
